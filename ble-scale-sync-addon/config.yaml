@@ -1,6 +1,6 @@
 name: BLE Scale Sync (QN stone fork)
 # x-release-please-start-version
-version: 1.29.0-qn-stone.1
+version: 1.29.0-qn-stone.2
 # x-release-please-end
 slug: ble-scale-sync-qn-stone
 description: >-

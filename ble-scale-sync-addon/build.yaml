@@ -1,5 +1,6 @@
-# Pin to release version tag at release time (e.g. :1.8.0)
+# Temporary fork deployment: the wrapper add-on must inherit from the
+# hardware-validated application image, not upstream :latest.
 build_from:
-  amd64: ghcr.io/kristianp26/ble-scale-sync:latest
+  amd64: ghcr.io/totalitarian/ble-scale-sync:qn-stone-7f270e9
   aarch64: ghcr.io/kristianp26/ble-scale-sync:latest
   armv7: ghcr.io/kristianp26/ble-scale-sync:latest
